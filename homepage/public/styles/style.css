@@ -1,0 +1,268 @@
+.body-index{
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(to right, rgba(228, 232, 19, 0.984), rgb(12, 248, 44));
+    margin:0%;
+    /*background-image: linear-gradient(((rgba(255, 255, 255, 0),(rgba(255, 255, 255, 0)),url(public/images/card0.jpg));*/
+}
+
+.carousel {position:relative;}
+
+.carousel-inner {position:relative; width: 100%; overflow: hidden; height:742px;}
+ 
+h1 {
+    text-align: center;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    color: rgb(238, 33, 10);
+    font-style: oblique;
+}
+
+.nav{
+    padding-left: 40%;
+}
+
+.navbar{
+    text-align: center;
+    justify-content: center;
+}
+
+.nav-link{
+    color: rgb(8, 8, 8);
+    font-size: 25px;
+    text-shadow: 2px 2px 5px rgb(6, 125, 48);
+    box-sizing: border-box;
+    box-shadow: 6px 5px 3px rgb(52, 4, 243);
+    border: 2px solid rgb(20, 4, 243);
+    /*border-right: 50cqpx solid;*/
+    /*1px is defined as1/96th of an inch*/
+}
+
+.card{
+    text-align: center;
+    justify-content: center;
+}
+
+.card-body{
+    text-align: center;
+}
+
+img{
+    align-content: center;
+}
+
+.content{
+    text-align: center;
+    height: 250px;
+    background-image:linear-gradient(to right, rgba(228, 232, 19, 0.984), rgb(12, 248, 44));
+    align-content: center;
+    /*color: rgb(250, 249, 247);*/
+    
+}
+
+.content-wrap{
+    padding-bottom: 20px;
+}
+
+.template-container{
+   /* height:auto;*/
+    margin: 0%;
+}
+
+.img-fluid{
+    height: 313px !important;
+    width: 1000px;
+}
+
+.card-title{
+    font-size: 40px;
+    font-family:cursive;
+    color: rgb(8, 8, 8);
+}
+
+.card-text{
+    font-size: 50px;
+    font-family:fantasy;
+    color: rgb(8, 8, 8);
+}
+
+.card-body{
+   /* background-image:linear-gradient(to right, rgba(228, 232, 19, 0.984), rgb(12, 248, 44));*/
+    color: transparent;
+}
+
+.about-para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90%;
+    text-align: center;
+    color: rgb(6, 6, 6);
+}
+
+.about-title{
+    color: rgb(17, 16, 16);
+}
+
+.image{
+    width: 100%;
+}
+
+.card-title-contact{
+    font-size: 40px;
+    font-family:cursive;
+    color: rgb(9, 9, 9);
+}
+
+.place{
+    font-size: 50px;
+    padding-top: 10%;
+    color: rgb(8, 8, 8);
+}
+
+.card-header{
+    font-size: 30px;
+    color: rgb(12, 12, 12);
+}
+
+.card-footer{
+    font-size: 15px;
+    color: rgb(8, 8, 8);
+}
+
+.btn{
+    margin-bottom: 10px;
+}
+
+.body-login{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    margin:0%;
+}
+
+.login{
+    float: inline-start;
+    padding-top: 8%;
+    padding-left: 10%;
+}
+
+.input-group{
+    padding-top: 10px;
+}
+
+.input-group-text{
+    font-size: 20px;
+    padding-inline: 5px; 
+    padding-bottom: 20%;
+}
+
+.form-outline{
+    font-size: 20px;
+    padding-top: 10px;   
+}
+
+.form-control{
+    box-sizing: border-box;
+    height:30px;
+    width:350px;
+    border-radius: 3%;
+    border: 3px solid blue;
+    padding-bottom: 20px;
+}
+
+.btn-login{
+    box-sizing: border-box;
+    height: 20px;
+    width:70px;
+    border-radius: 3%;
+    border: 3px solid blue;
+    margin-top: 25px;
+    margin-left: 125px;
+}
+
+.login-heading{
+    color: rgb(2, 9, 16);
+}
+
+/*.bg-body-tertiary{
+    /*background-color: rgb(44, 115, 178);
+}*/
+
+.about-container{
+    background: radial-gradient(circle, black, rgb(219, 199, 199));
+    margin: 0%;
+    background-repeat:repeat-y;
+}
+
+.about-container-title{
+    font-size: 40px;
+    font-family: cursive;
+    text-shadow: 2px 2px 5px rgb(3, 200, 249);
+    margin-top: 20px;
+    color: rgb(15, 237, 59);
+}
+
+.about{
+    margin-top:8%;
+}
+
+.about-h2{
+    text-align: center;
+    color: rgb(10, 222, 233);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-p{
+    text-align: center;
+    color: rgb(10, 214, 221);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.location{
+   margin:0%;
+}
+
+#map{
+    height:100%;
+}
+
+.location-h{
+    font-style:italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.description{
+    border-top: 40px solid ;
+    text-align: center;
+    font-size: 50px;
+    border-bottom:40px solid;
+    background-color: brown;
+}
+
+.description-1{
+    margin-top: 18%;
+    text-align: center;
+    font-size: 50px; 
+    background-image: linear-gradient(to right, rgba(4, 234, 38, 0.888), rgb(200, 238, 9));
+    
+}
+
+/*         1.if we are using any tag1 inside a tag2 then tag2 have one class and tag1 has one class then both can be styled differently
+           question: 1.why we are using two different classes for two different tags , Is to make the paragraph styled easier
+           2.we are best at solving sums and problems so that know we want to learn about how to create problem and sum for more easier to understand the logics and concepts
+           3.background image are very beautiful for color combination in background
+           4.the text align tag in css is used to align the text in center and fit with it 
+           5.*leah gutti,*lexi luna,*bella murr,ellie nova,bunny madison,kay lovely,*gia derza,*nathaly cherie,laney grey ,*hazel moore ,*valentina nappi,*sami and joey white.*chole surreal,ella knox
+           6.each class for each tag make it more difficult to style up the each tag so that making a group and creating class is best than assigning each class for each tag
+           7.(40702) this is code used for best experience
+           8.when we  have the code for full of logics and the problems of the code and the permanent coded 
+           9.main point is to controll the shortcuts and meaning for each and every word in vs code
+           10.while using card bootstrap , use background color as tranparent if the background color of the body want to be visible and best to use the style in ejs
+           11.use background color as transparent when your screen background want to visible and this to do that
+           12.always use ejs file for connecting html and javascript
+           13.in css file use dot(.) for class tag and slash(#) for id tag
+           14.don't use gpt or any other website for creating code
+           15.use bootstrap.com for easy your work.
+           16.always use (!) when start of ejs or html file because this is easy and reduce the time of coding
+           17.for img tag always use any "alt" for finding image in the website when the image not loaded in the web page
+           18. indian:juliana palvin,mackencie29,saraherick,mr.enternainer,andreina,dereckandzoe*/
